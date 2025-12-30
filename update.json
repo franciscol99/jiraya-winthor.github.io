@@ -1,5 +1,5 @@
 {
-  "version": "1.00",
+  "version": "1.01",
   "description": "<ul class=\"winthor-atualizacoes-lista\"><li class=\"winthor-li-atualizacao-importante\"><span class=\"winthor-atualizacao-titulo\">Sistema de Atualização Automática</span><span class=\"winthor-atualizacao-descricao\">Implementado sistema de atualização automática com verificação de versão remota</span></li><li class=\"winthor-li-atualizacao-novidade\"><span class=\"winthor-atualizacao-titulo\">Variáveis Globais</span><span class=\"winthor-atualizacao-descricao\">Sistema de variáveis globais configuráveis via index.json no GitHub</span></li><li class=\"winthor-li-atualizacao-novidade\"><span class=\"winthor-atualizacao-titulo\">Cache Inteligente</span><span class=\"winthor-atualizacao-descricao\">Cache de 30 minutos para otimizar carregamento das configurações</span></li></ul>",
   "forcarAtualizacao": false,
   "atualizar": true,
