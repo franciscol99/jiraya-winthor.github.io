@@ -1,0 +1,53 @@
+{
+  "WINTHOR_ELEMENTOS": {
+    "descricaoIssue": "#description-val",
+    "detalhesIssue": "#issuedetails",
+    "containerDescricaoIssue": "#description-form",
+    "headerIssue": ".issue-view .aui-page-header",
+    "modalRegistrarTempo": "#tempo-global-dialog-bundled",
+    "menuLateral": ".aui-navgroup-inner.sidebar-content-container.jira-navigation",
+    "menuLateralFooter": ".aui-sidebar-footer",
+    "tituloIssue": "#summary-val",
+    "linkIssue": ".aui-nav.aui-nav-breadcrumbs",
+    "listaComentarios": ".issue-data-block[id*='comment-']",
+    "containerComentarios": "#issue_actions_container",
+    "comentario": ".wiki-edit:visible",
+    "editarComentarioContainer": ".jira-editor-container:visible",
+    "barraAcoesComentario": ".wiki-button-bar-content",
+    "botaoComentario": "#footer-comment-button",
+    "modalEditarIssue": "#edit-issue-dialog",
+    "geralIssue": "#customfield-panel-1",
+    "modalEditarComentario": "#edit-comment",
+    "blocoDeCodigo": ".preformattedContent.panelContent",
+    "blocoDeCodigoNaoProcessado": ".preformattedContent.panelContent:not([data-winthor-processado='true'])"
+  },
+  "WINTHOR": {
+    "ATIVO": true,
+    "ATIVO_JIRA": true,
+    "AVISO_ADMIN_GLOBALS": "",
+    "INTERVALO_ATUALIZACAO_MINUTOS": 30,
+    "VERSAO_LIMITE": 0.1,
+    "LINK_DOCUMENTACAO": "https://github.com/franciscol99/jiraya-winthor.github.io",
+    "LINK_DOWNLOAD": "https://github.com/franciscol99/jiraya-winthor.github.io/releases",
+    "LINK_ATUALIZACAO": "https://raw.githubusercontent.com/franciscol99/jiraya-winthor.github.io/refs/heads/main/update.json",
+    "EMAIL_CONTATO": "francisco.ben@totvs.com.br",
+    "mensagens": {
+      "avisoCausaOcorrenciaPendente": "Causa ocorrência pendente",
+      "testeDeAceitacaoFinalizado": "Concluído com sucesso."
+    },
+    "emojs": {
+      "ok": "(/)",
+      "erro": "(x)",
+      "info": "(i)",
+      "alert": "(!)",
+      "mais": "(+)",
+      "menos": "(-)",
+      "pergunta": "(?)",
+      "estrela": "(*)",
+      "estrela2": "(*y)",
+      "bandeiraVermelha": "(flag)",
+      "bandeiraBranca": "(flagoff)"
+    },
+    "textos": {}
+  }
+}
